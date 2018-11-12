@@ -9,6 +9,7 @@ function printBadges(array) {
 
 function tailsNeverFails() {
   let count = 0;
+  let a = 5;
   while (Math.random() >= 0.5) {
     count = count + 1;
   }
