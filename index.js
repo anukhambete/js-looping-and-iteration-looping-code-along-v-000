@@ -15,4 +15,5 @@ function tailsNeverFails() {
   }
   count = count;
   answer = "You got " + count + " tails in a row!";
+  return answer;
 }
