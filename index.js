@@ -1,5 +1,5 @@
 // Code your solutions in this file
 function printBadges(array) {
-  
-  for ()
+
+  for (let i = 0; i < array.length; i++)
 }
